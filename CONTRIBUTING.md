@@ -7,7 +7,7 @@
 
 ## Testing
 
-### Unit tests
+### Unit Tests
 
 To run the unit tests, simply run:
 
@@ -70,5 +70,4 @@ You can sign these electronically (just scroll to the bottom). After that, we'll
 [gcloudcli]: https://developers.google.com/cloud/sdk/gcloud/
 [indvcla]: https://developers.google.com/open-source/cla/individual
 [corpcla]: https://developers.google.com/open-source/cla/corporate
-[ngcontributing]: https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#commit-message-format
 [commitdoc]: https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
